@@ -2,7 +2,7 @@
 
 Techbairro é um cadastro de clientes que serve para cadastrar clientes e manter os dados deles salvos.
 
-**Versão atual:** 3.3.1 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md)
+**Versão atual:** 3.3.2 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md)
 
 ## Funcionalidades
 

@@ -12,7 +12,7 @@ from banco import GerenciadorClientes
 from cliente import Cliente
 from validacao import ValidadorCliente
 
-VERSAO = "3.3.1"
+VERSAO = "3.3.2"
 
 # ============================================================
 # JANELA PRINCIPAL
