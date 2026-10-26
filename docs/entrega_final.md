@@ -38,4 +38,4 @@ python techbairro.py
 
 
 ## Autoavaliação
-____ (Parte 6)
+Acho que o roteiro da minha apresentração ficou bom, talvez grande demais, mas acredito que esteja bem explica e que dê para entender bem o que eu explicarei. eu não penso em muito o que mudar, já que se pensasse já teria mudado, então acho que meu roteiro ficou completo e bom. Nessa unidade, acho importante entender o Tkinter, que é o foco da matéria e também aprender outras coisas como criar uma base para sqlite3 já que foiusado no sistema e melhorar a lógica de programação(coisa que sinceramente não consegui muito bem, mas pretendo praticar mais em casa).
